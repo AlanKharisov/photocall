@@ -17,7 +17,7 @@ const App = () => {
   const [error, setError] = useState("");
 
   // Твой ключ (Обязательно используй НОВЫЙ из AI Studio!)
-  const GEMINI_API_KEY = "AIzaSyBl7IdPu0JY9MDgtZeEHNaTXLPYye7Oios"; 
+  const GEMINI_API_KEY = "AIzaSyA3yM44bEfUrHxakIgkfb3PqV9VU6T3nh0"; 
   const MODEL_NAME = "gemini-flash-latest";
 
   const handleImageUpload = (e) => {
